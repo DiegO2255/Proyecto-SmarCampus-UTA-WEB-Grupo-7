@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartCampus UTA Web
 
 Proyecto web Java por capas para gestionar atencion estudiantil, tramites, organizacion documental y rutas dentro del campus universitario.
@@ -50,3 +51,6 @@ mvn jetty:run
 ## Nota importante sobre RLS
 
 El script habilita Row Level Security en Supabase. Para que JDBC funcione con usuario `postgres`, aplica politicas RLS apropiadas o usa credenciales con permisos suficientes para el entorno academico.
+=======
+# Proyecto-SmarCampus-UTA-WEB-Grupo-7
+>>>>>>> 74ee196b2c27f56605700ba854c51e0987d16414
